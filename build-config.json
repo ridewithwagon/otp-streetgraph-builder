@@ -1,7 +1,7 @@
 {
     "osm": [
         {
-            "source": "https://download.geofabrik.de/europe/cyprus-latest.osm.pbf"
+            "source": "cyprus-latest.osm.pbf"
         },
         {
             "source": "https://cdn1.arno.cl/2024/09/toulouse.osm.pbf"
@@ -10,7 +10,7 @@
             "source": "https://cdn1.arno.cl/2024/05/nice.osm.pbf"
         },
         {
-            "source": "https://download.geofabrik.de/europe/france/ile-de-france-latest.osm.pbf"
+            "source": "ile-de-france-latest.osm.pbf"
         }
     ]
 }
